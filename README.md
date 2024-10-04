@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/847a5ecc-d7f4-4e87-bb26-f46ca3d50669)
+
+![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/3cdf7194-7150-4211-b146-372f1eb9cdca)
 
 <!--
 **mubinulislam/mubinulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
